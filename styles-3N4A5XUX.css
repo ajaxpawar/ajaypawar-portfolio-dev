@@ -1,0 +1,1 @@
+:root{--primary-color: #ff6a13;--secondary-color: #ff9e50;--lighter-primary: #ffb84d;--dark-gray: #434343;--primary-font: white;--secondary-font: rgb(205, 205, 205);--gray-font: rgb(142, 133, 133);--gradient: linear-gradient(45deg, #ff7c7d, #ffda67);--card: #272524}body{display:flex;align-items:center;justify-content:center;margin:0;height:100vh;background:var(--gradient)}
